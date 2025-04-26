@@ -7,7 +7,11 @@
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sasaki303/jartojava"
+    "url": "https://github.com/Sasaki303/jartojava",
+    "scripts": {
+  "release": "npm version patch && vsce package && vsce publish"
+  }
+
   },
   "engines": {
     "vscode": "^1.99.0"
