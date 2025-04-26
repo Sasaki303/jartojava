@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# VSCodeの設定ファイル
+.vscode/
+
+# ログファイル
+*.log
