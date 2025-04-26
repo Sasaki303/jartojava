@@ -4,6 +4,7 @@
   "description": "jartoVScodejava",
   "publisher": "taayhak",
   "version": "0.0.1",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sasaki303/jartojava"
