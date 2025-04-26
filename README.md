@@ -13,7 +13,7 @@
    - Visual Studio Codeを開き、拡張機能のビューで「jartojava」を検索してインストールします。
 
 2. **手動インストール**:
-   - この拡張機能を手動でインストールしたい場合は、[こちら](https://marketplace.visualstudio.com/) からダウンロードできます。
+   - この拡張機能を手動でインストールしたい場合は、[こちら](https://marketplace.visualstudio.com/items?itemName=taayhak.jartojava) からダウンロードできます。
 
 ## 使い方
 1. **JARファイルを選択**:
